@@ -1,6 +1,6 @@
-# Philitout
+![Philitout Logo]([https://github.com/jennarms/IskoCards/blob/main/assets/LogoHeader.png](https://raw.githubusercontent.com/jennarms/Philitout/refs/heads/main/PHILITOUT/pictures/Landscape%20logo%20(500%20x%20300%20px).png))
 
-A Python-based **CRUD (Create, Read, Update, Delete) system** that digitizes the traditional **PhilHealth Member Registration Form**, making the registration process more efficient and user-friendly. This system is built using **Python Tkinter** for the interface and **MySQL** for database management.
+**PHIL it out!** A Python-based **CRUD (Create, Read, Update, Delete) system** that digitizes the traditional **PhilHealth Member Registration Form**, making the registration process more efficient and user-friendly. This system is built using **Python Tkinter** for the interface and **MySQL** for database management.
 
 ## Features
 
