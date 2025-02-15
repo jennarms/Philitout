@@ -1,6 +1,6 @@
 ![Philitout Logo](https://raw.githubusercontent.com/jennarms/Philitout/refs/heads/main/PHILITOUT/pictures/Landscape%20logo%20(500%20x%20300%20px).png)
 
-**PHIL it out!** A Python-based **CRUD system** that digitizes the traditional **PhilHealth Member Registration Form**, making the registration process more efficient and user-friendly. This system is built using **Python Tkinter** for the interface and **MySQL** for database management.
+**PHIL it out!** A required project in Information Management, Python-based **CRUD system** that digitizes the traditional **PhilHealth Member Registration Form**, making the registration process more efficient and user-friendly. This system is built using **Python Tkinter** for the interface and **MySQL** for database management.
 
 ## Created by:
 - 💗 **Jenna Nadine D. Ramos** 💗
